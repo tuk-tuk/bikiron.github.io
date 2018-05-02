@@ -1,0 +1,31 @@
+
+
+#intro
+{
+    background-image: url(back.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 230px;
+    padding-bottom: 10px;
+}
+
+.header
+{
+	padding-top: 0;
+}
+
+body {
+    font-size: 20px;
+    text-align: center;
+    font-family: arial;
+}
+
+.profilepic
+{
+	height: 300px
+}
+
+#about
+{
+	margin-top: 0;
+}
